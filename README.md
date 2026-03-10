@@ -52,7 +52,7 @@ I'm a passionate developer exploring web, software, and creative tech. I love le
 
 ### 🎧 Currently Listening
 <div align="center">
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv?si=2TXiVdtaTRqIKWbOKEEzzg)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314bbrdq7xxn2rc4iz3nw56mllaa&cover_image=true&theme=default)](https://open.spotify.com/user/314bbrdq7xxn2rc4iz3nw56mllaa)
 </div>
 
 ---
