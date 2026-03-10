@@ -45,7 +45,7 @@ I'm a passionate developer exploring web, software, and creative tech. I love le
 
 ### 📊 GitHub Stats
 <div align="center">
-[![Fahri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Fahri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahriranss&show_icons=true&theme=dark&count_private=true)](https://github.com/fahriranss)
 </div>
 
 ---
