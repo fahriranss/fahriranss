@@ -5,7 +5,7 @@
   <p>Developer | Designer | Curious Mind</p>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/fahri.botz_" target="_blank">
     <img alt="Instagram" width="36px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg"/>
   </a>
 </div>
