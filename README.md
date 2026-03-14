@@ -41,9 +41,9 @@ I'm a passionate developer exploring web, software, and creative tech. I love le
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Top Languages
 <div align="center">
-[![Fahri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahriranss&show_icons=true&theme=dark&count_private=true)](https://github.com/fahriranss)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahriranss&layout=compact&theme=radical)
 </div>
 
 ---
