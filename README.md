@@ -48,3 +48,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314bbrdq7xxn2rc4iz3nw56mllaa)
