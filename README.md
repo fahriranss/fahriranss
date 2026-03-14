@@ -41,17 +41,23 @@ I'm a passionate developer exploring web, software, and creative tech. I love le
 
 ---
 
-### 📊 Top Languages
+### 📊 GitHub Stats & Top Languages
 <div align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahriranss&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=fahriranss&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahriranss&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
 
 ### 🎧 Currently Listening
 <div align="center">
-<!-- Ganti URL di bawah setelah deploy widget Spotify sendiri -->
-[![Spotify Now Playing](https://YOUR_OWN_DEPLOYED_WIDGET_URL)](https://open.spotify.com/user/314bbrdq7xxn2rc4iz3nw56mllaa)
+  <!-- Ganti URL di bawah setelah deploy widget Spotify sendiri -->
+  <a href="https://open.spotify.com/user/314bbrdq7xxn2rc4iz3nw56mllaa" target="_blank">
+    <img alt="Spotify Now Playing" src="https://YOUR_OWN_DEPLOYED_WIDGET_URL"/>
+  </a>
 </div>
 
 ---
