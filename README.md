@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png" alt="Fahri Header" width="80%" style="border-radius:15px"/>
+  <img src="https://github.com/fahriranss/src/blob/5473350c31ad76499442f3fc5949f8c503886b46/header.jpg" alt="Fahri Header" width="80%" style="border-radius:15px"/>
   <h1>Hi, I'm Fahri 👋</h1>
   <p>Developer | Designer | Curious Mind</p>
 
