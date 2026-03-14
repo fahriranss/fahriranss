@@ -54,10 +54,18 @@ I'm a passionate developer exploring web, software, and creative tech. I love le
 
 ### 🎧 Currently Listening
 <div align="center">
-  <!-- Ganti URL di bawah setelah deploy widget Spotify sendiri -->
   <a href="https://open.spotify.com/user/314bbrdq7xxn2rc4iz3nw56mllaa" target="_blank">
-    <img alt="Spotify Now Playing" src="https://YOUR_OWN_DEPLOYED_WIDGET_URL"/>
+    <img alt="Spotify Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=314bbrdq7xxn2rc4iz3nw56mllaa&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true"/>
   </a>
 </div>
 
 ---
+
+<details>
+<summary>📕 Latest Blog Posts</summary>
+
+- [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)  
+- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)  
+- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)  
+
+</details>
