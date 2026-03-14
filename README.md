@@ -43,3 +43,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahriranss&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahriranss&layout=compact&theme=tokyonight)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
